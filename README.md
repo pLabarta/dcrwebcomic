@@ -29,7 +29,7 @@ Home
                 └── drafts
                 └── fonts              
     └── Images - Optimized image files for social sharing (required dimensions to be determined)
-          └── dcrwebcomic1_es.jpg
+          └── dcrwebcomic1_en.jpg
           └── dcrwebcomic1_es.jpg
     └── Text - Text version of scripts in every available language
           └── English
