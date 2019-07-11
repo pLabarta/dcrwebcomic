@@ -4,23 +4,23 @@ by Crypto Rocket Solutions
 & the Decred Community
 
 02
-Stakey has a great idea to push Decred's growth.
+A Decred community member has a great idea to push Decred's growth.
 
 03
-To bring it to life, he goes to Politeia, the governance platform.
+To bring it to life, he submits a proposal on Politeia, the governance platform.
 
 04
-Other members review the proposal.
-Then, Stakey updates it and starts the voting phase.
+The stakeholder community reviews the proposal.
+Then, the proposal author updates it and starts the voting phase.
 
 05
 The Voting Phase lasts 2016 blocks, close to a week.
-20% of the existing tickets MUST PARTICIPATE
-60% of those tickets MUST VOTE 'YES'
+20% of the live tickets MUST PARTICIPATE
+60% of those tickets MUST VOTE 'YES' for the proposal to be approved.
 
 06
-Once the proposal is approved, Stakey can get to work!
+Once the proposal is approved, the contributor can get to work!
 
 07
-As Stakey delivers the results, the treasury pays him!
-Now, he can continue to contribute to Decred's (r)evolution.
+As they deliver, the treasury pays them!
+Now, they can continue to contribute to Decred's (r)evolution.
