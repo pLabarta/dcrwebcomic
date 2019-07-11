@@ -7,11 +7,11 @@ by Crypto Rocket Solutions
 Stakey has a great idea to push Decred's growth.
 
 03
-To bring it to life, he goes to Politeia, the community forum.
+To bring it to life, he goes to Politeia, the governance platform.
 
 04
-Other members comment and suggest changes to the proposal.
-Then, Stakey modifies it and starts the voting phase.
+Other members review the proposal.
+Then, Stakey updates it and starts the voting phase.
 
 05
 The Voting Phase lasts 2016 blocks, close to a week.
@@ -22,5 +22,5 @@ The Voting Phase lasts 2016 blocks, close to a week.
 Once the proposal is approved, Stakey can get to work!
 
 07
-As Stakey delivers the results, the community pays him!
-Now, he can continue to collaborate with Decred's (r)evolution.
+As Stakey delivers the results, the treasury pays him!
+Now, he can continue to contribute to Decred's (r)evolution.
