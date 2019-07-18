@@ -20,7 +20,7 @@ La votación dura 2016 bloques, cerca de una semana.
 60% de esos tickets DEBEN VOTAR 'SI'
 
 06
-Con la propuesta aprobada, el colaborador puede comenzar a trabajar.
+Una vez aprobada, el colaborador puede comenzar a trabajar.
 
 07
 ¡A medida que entrega los trabajos, el tesoro le paga!
