@@ -11,7 +11,7 @@ To bring it to life, he submits a proposal on Politeia, the governance platform.
 
 04
 The stakeholder community reviews the proposal.
-Then, the proposal author updates it and starts the voting phase.
+Then, the author updates it and starts the voting phase.
 
 05
 The Voting Phase lasts 2016 blocks, close to a week.
