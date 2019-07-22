@@ -1,5 +1,5 @@
 01
-Narrator: To keep a blockchain secure requires a lot of work… and proofs of it.
+Narrator: Securing a blockchain requires a lot of workâ€¦ and proofs of it.
 Scene: An entrance to a dark cave. There are cables going in.
 Big title: Proof-of-Work, explained
 
@@ -17,7 +17,7 @@ Scene: Opened rubik cube with coins inside.
 Scene option 2: Coins in a pair of hands + Blockchain of shiny rubik cubes
 
 05
-Narrator: Even high-end computers must work for several minutes to find a solution. The electricity and time cost keep the network secure.
+Narrator: Even high-end computers must work for several minutes to find a solution. Electricity and time costs keep the network secure.
 Scene: Weird machine panel with difficulty meter and past block solving times.
 
 06
@@ -26,8 +26,8 @@ Scene: A miner lifting a shiny coin and a rubik cube. Other miners are sad and t
 
 07
 Because mining requires a lot of work, those who want to cheat the network must invest tons of resources to hack it.
-Scene: A hacker’s nest. He is staring at a PC screen with a shield/protected/error icon. The room is dark. On the wall hangs a Guy Fawkes mask.
+Scene: A hackerâ€™s nest. He is staring at a PC screen with a shield/protected/error icon. The room is dark. On the wall hangs a Guy Fawkes mask.
 
 08
-Narrator: Miners process transactions and secure the network. But remember, with great power comes great responsibility…
+Narrator: Yes, miners process transactions and secure the network. But remember, with great power comes great responsibilityâ€¦
 Scene: A miner with an imposing look. He seems big and powerful. His power makes his face shine. Other tickets behind him look worried about the whole situation.
