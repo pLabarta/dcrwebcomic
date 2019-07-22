@@ -1,0 +1,33 @@
+01
+Narrator: To keep a blockchain secure requires a lot of work… and proofs of it.
+Scene: An entrance to a dark cave. There are cables going in.
+Big title: Proof-of-Work, explained
+
+02
+Narrator: Those who work to keep the network secure and process transactions are called miners.
+Scene: Full shot of a miner Ticket with its helmet, spanner and rubik cube (the puzzles). Some items may have little descriptions.
+
+03
+Narrator: But these are not your regular miners. They use computers to solve puzzles in exchange of new coins.
+Scene: Close-up of a weird machine solving a rubik cube. The miner is putting the cube into the machine.
+
+04
+Narrator: When they solve it, they get paid by the network and the new block is added to the blockchain.
+Scene: Opened rubik cube with coins inside.
+Scene option 2: Coins in a pair of hands + Blockchain of shiny rubik cubes
+
+05
+Narrator: Even high-end computers must work for several minutes to find a solution. The electricity and time cost keep the network secure.
+Scene: Weird machine panel with difficulty meter and past block solving times.
+
+06
+Narrator: All miners compete to be the first to find a solution. When solved, the race begins once again with a new block with pending transactions.
+Scene: A miner lifting a shiny coin and a rubik cube. Other miners are sad and their cubes turned grey.
+
+07
+Because mining requires a lot of work, those who want to cheat the network must invest tons of resources to hack it.
+Scene: A hacker’s nest. He is staring at a PC screen with a shield/protected/error icon. The room is dark. On the wall hangs a Guy Fawkes mask.
+
+08
+Narrator: Miners process transactions and secure the network. But remember, with great power comes great responsibility…
+Scene: A miner with an imposing look. He seems big and powerful. His power makes his face shine. Other tickets behind him look worried about the whole situation.
