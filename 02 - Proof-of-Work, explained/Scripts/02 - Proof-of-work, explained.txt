@@ -12,13 +12,13 @@ Narrator: But these are not your regular miners. They use computers to solve puz
 Scene: Close-up of a weird machine solving a rubik cube. The miner is putting the cube into the machine.
 
 04
+Narrator: Even high-end computers must work for several minutes to find a solution. Electricity and time costs keep the network secure.
+Scene: Weird machine panel with difficulty meter and past block solving times.
+
+05
 Narrator: When they solve it, they get paid by the network and the new block is added to the blockchain.
 Scene: Opened rubik cube with coins inside.
 Scene option 2: Coins in a pair of hands + Blockchain of shiny rubik cubes
-
-05
-Narrator: Even high-end computers must work for several minutes to find a solution. Electricity and time costs keep the network secure.
-Scene: Weird machine panel with difficulty meter and past block solving times.
 
 06
 Narrator: All miners compete to be the first to find a solution. When solved, the race begins once again with a new block with pending transactions.
