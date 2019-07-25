@@ -1,26 +1,27 @@
 01
-El Gran Camino de las Propuestas
-por Crypto Rocket Solutions
+El Camino de las Propuestas en Decred
+por Crypto Rocket
 & la comunidad de Decred
 
 02
-Stakey tiene una gran idea para colaborar con el crecimiento de Decred.
+Un miembro de la comunidad tiene una gran idea para impulsar el crecimiento de Decred.
 
 03
-Para hacerla realidad, se presenta en Politeia, el foro de la comunidad.
+Para hacerla realidad, presenta una propuesta en Politeia, la plataforma de gobernanza.
 
 04
-Allí, todos debaten y sugieren cambios.
-Stakey modifica la propuesta.
-Cuando termina, abre la votación.
+AllÃ­, la comunidad revisa la propuesta.
+El autor la modifica y
+cuando termina, abre la votaciÃ³n.
 
 05
-La votación dura 2016 bloques, cerca de una semana.
-20% de todos los tickets DEBEN PARTICIPAR
+La votaciÃ³n dura 2016 bloques, cerca de una semana.
+20% de los tickets activos DEBEN PARTICIPAR
 60% de esos tickets DEBEN VOTAR 'SI'
 
 06
-Con la propuesta aprobada, Stakey puede comenzar a trabajar.
+Una vez aprobada, el colaborador puede comenzar a trabajar.
 
 07
-A medida que entrega los trabajos, Stakey puede reclamar el dinero y vivir de sus colaboraciones.
+Â¡A medida que entrega los trabajos, el tesoro le paga!
+Ahora, puede seguir colaborando con la (r)evoluciÃ³n de Decred.

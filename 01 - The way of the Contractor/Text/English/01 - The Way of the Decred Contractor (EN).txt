@@ -1,6 +1,6 @@
 01
 The Way of the Decred Contractor
-by Crypto Rocket Solutions
+by Crypto Rocket
 & the Decred Community
 
 02
@@ -11,12 +11,12 @@ To bring it to life, he submits a proposal on Politeia, the governance platform.
 
 04
 The stakeholder community reviews the proposal.
-Then, the proposal author updates it and starts the voting phase.
+Then, the author updates it and starts the voting phase.
 
 05
 The Voting Phase lasts 2016 blocks, close to a week.
 20% of the live tickets MUST PARTICIPATE
-60% of those tickets MUST VOTE 'YES' for the proposal to be approved.
+60% of those tickets MUST VOTE 'YES'
 
 06
 Once the proposal is approved, the contributor can get to work!
