@@ -1,5 +1,5 @@
 01
-Narrator: Securing a blockchain requires a lot of work… and proofs of it.
+Narrator: Securing a blockchain requires a lot of work… and proofs of it. How does Decred's first layer of security work?
 Scene: An entrance to a dark cave. There are cables going in.
 Big title: Proof-of-Work, explained
 
