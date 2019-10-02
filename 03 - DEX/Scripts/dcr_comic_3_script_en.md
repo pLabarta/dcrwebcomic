@@ -5,7 +5,7 @@
 
 **Narrator:** "Exchanges play a key role in the crypto ecosystem. How will Decred's Decentralized Exchange work?"
 
-**Setting:** A big city, NY style. There a lots of tickets walking. Some of them enter a big set of buildings that make up the word "DEX". The DEX is a place they attend to regularly.
+**Setting:** A big city, NY style. There are lots of tickets walking. Some of them enter a big set of buildings that make up the word "DEX". The DEX is a place they attend to regularly.
 
 
 
