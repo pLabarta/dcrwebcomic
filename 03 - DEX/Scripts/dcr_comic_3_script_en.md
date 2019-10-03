@@ -19,7 +19,7 @@
 
 ## 03
 
-**Narrator:** "To grow their business, the even post fake stats to appear to be bigger."
+**Narrator:** "To grow their business, they even post fake stats to appear to be bigger."
 
 **Setting:** A small building with a huge front. Behind it, some tickets use a stair to turn on/off the light.
 
@@ -59,6 +59,6 @@
 
 ## 08
 
-**Narrator:** A DEX does not have a singler server. It is distributed across the globe, run by users like you. These are exchanges made by the users for the users.
+**Narrator:** A DEX does not have a single server. It is distributed across the globe, run by users like you. These are exchanges made by the users for the users.
 
 **Setting:** "The Earth as seen from the space. There are lots of little DEX nodes. There is one in the moon. There are astronauts and rockets. One is a lovely shiba. The other one is a ticket."
