@@ -33,6 +33,7 @@ We have currently submitted a proposal to fund the development of the comic. You
 
 ## Finding what you need
 
+```
 Home
 └── 00 - DCR Webcomic issue
     └── Design - AI files and assets
@@ -52,7 +53,7 @@ Home
           └── Chinese
           └── Language 4
           └── Language 5
-
+```
 
 
 ## Social handles
