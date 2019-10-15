@@ -18,7 +18,7 @@
 
 **04**
 
-**Narrador: ** Incluso las computadoras modernas tardan en encontrar la solución. El costo de la electricidad y el tiempo que se requiere evitan los ataques.
+**Narrador: ** Lleva tiempo encontrar la solución. El costo de la electricidad y el tiempo que se requiere evitan los ataques.
 
 
 
