@@ -6,7 +6,7 @@
 
 **02**
 
-**Narrador:** Llamamos 'mineros' a quienes trabajan para procesar transacciones y aumentar la seguridad de la red.
+**Narrador:** Llamamos mineros a quienes trabajan para procesar transacciones y aumentar la seguridad de la red.
 
 
 
