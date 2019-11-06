@@ -6,10 +6,9 @@ A visual guide to [Decred](https://decred.org), the autonomous digital currency.
 
 
 
-## The proposal
+## Community-funded
 
-We have currently submitted a proposal to fund the development of the comic. You can read the proposal at [Politeia](https://proposals.decred.org) or [this repo](https://github.com/pLabarta/dcrwebcomic/blob/master/Proposal/DCR%20Comic:%20a%20visual%20guide%20to%20Decred.md) and, if you are a Decred ticket holder, decide on it when voting begins.
-
+Decred funded the first 9 DCR Comics. We submitted a proposal to fund the development of the comic. You can read the proposal at [Politeia](https://proposals.decred.org) or [this repo](https://github.com/pLabarta/dcrwebcomic/blob/master/Proposal/DCR%20Comic:%20a%20visual%20guide%20to%20Decred.md). 
 
 
 ![stakey-proposing-epic](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/Proposal/img/decred_jumbo.png)
