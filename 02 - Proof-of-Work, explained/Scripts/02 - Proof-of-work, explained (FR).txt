@@ -1,3 +1,5 @@
+Traduction française: d14t
+
 01
 Sécuriser une blockchain requiert beaucoup de travail...ainsi que des preuves de son travail. Comment fonctionne le premier niveau de sécurité pour Decred?
 
