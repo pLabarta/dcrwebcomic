@@ -1,0 +1,25 @@
+01
+Sécuriser une blockchain requiert beaucoup de travail...ainsi que des preuves de son travail. Comment fonctionne le premier niveau de sécurité pour Decred?
+
+02
+Ceux qui contribuent à sécuriser le réseau et traiter les opérations sont appelés les "mineurs".
+
+03
+Ces mineurs ne sont pas nos mineurs traditionnels. Ils utilisent des ordinateurs pour résoudre des problèmes mathématiques en échange de nouveaux token de cryptomonnaie.
+
+04
+Même les ordinateurs de pointe doivent travailler pendant plusieurs minutes pour trouver une solution. Les coûts en électricité et en temps assurent la sécurité du réseau.
+
+05
+Une fois la solution trouvée, ils sont payés par le réseau et le nouveau bloc produit est ajouté à la blockchain.
+
+06
+Les mineurs sont en compétition pour être les premiers à trouver une solution. Une fois le problème résolu, on recommence avec un nouveau bloc contenant des transactions en attente.
+
+07
+Le minage demande beaucoup de travail, ceux qui ambitionnent de tromper le réseau doivent investir des tonnes de ressources pour espérer le pirater.
+
+08
+Oui, les mineurs traitent les transactions et sécurisent le réseau. Mais n'oubliez pas : un grand pouvoir s'accompagne de grandes responsabilités...
+
+Pour en savoir plus : 
