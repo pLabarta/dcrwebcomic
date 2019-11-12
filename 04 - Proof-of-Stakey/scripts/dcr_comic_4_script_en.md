@@ -30,9 +30,7 @@ After voting, ticket owners get their DCR refunded and earn a share (6%) of the 
 
 05
 
-Stakeholders can influence PoW miners by voting to reject their blocks if certain conditions are met.
-
-
+Stakeholders vote to approve or reject the work of the PoW miners, they can deny the miners' rewards if they misbehave.  
 
 06
 
