@@ -6,7 +6,7 @@
 
 Title: Proof-of-Stake(y)
 
-Decred mixes Proof-of-Stake voting and Proof-of-Work mining. This combination tightens the security and puts gives holders the tools to lead.
+Decred mixes Proof-of-Stake voting and Proof-of-Work mining. This combination tightens the security and gives holders the tools to lead.
 
 
 
@@ -18,7 +18,7 @@ DCR holders can buy tickets with their coins and use them to decide how Decred o
 
 03
 
-Each new block picks five tickets at random and requires the validation of at least 3 signatures.
+Each new block picks five tickets to vote at random and requires signed votes from at least 3 tickets to be valid.
 
 
 
@@ -30,9 +30,7 @@ After voting, ticket owners get their DCR refunded and earn a share (6%) of the 
 
 05
 
-Stakeholders can influence PoW miners and withhold block rewards by not signing a block.
-
-
+Stakeholders vote to approve or reject the work of the PoW miners, they can deny the miners' rewards if they misbehave.  
 
 06
 
@@ -42,7 +40,7 @@ Vote for or against changes to the consensus rules.
 
 07
 
-Decide on treasury expending proposals through Politeia.
+Decide on treasury expenditure proposals through Politeia.
 
 
 
