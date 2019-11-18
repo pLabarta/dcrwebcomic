@@ -18,7 +18,7 @@ DCR holders can buy tickets with their coins and use them to decide how Decred o
 
 03
 
-Each new block picks five tickets to vote at random and requires signed votes from at least 3 tickets to be valid.
+Each new block picks five tickets to vote at random and requires signed votes from at least 3 tickets.
 
 
 
