@@ -42,7 +42,7 @@ More than 50% of the total DCR is staked. The mixnet operates by epochs and user
 
 **07**
 
-This new service is just another step forward. Decred will keep iterating on its privacy so every user can benefit.
+This new service is just another step forward. Decred will keep improving/iterating on its privacy so every user can benefit.
 
 
 
