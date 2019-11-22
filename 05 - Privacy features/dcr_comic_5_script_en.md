@@ -1,4 +1,4 @@
-# DCR Comic #05: Privacy Features
+# DCR Comic #05: Privacy matters
 
 
 
