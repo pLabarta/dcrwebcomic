@@ -6,38 +6,41 @@
 
 Title: Proof-of-Stake(y)
 
-Decred mixes Proof-of-Stake voting and Proof-of-Work mining. This combination tightens the security and gives holders the tools to lead.
-
+Decred的共识机制由权益证明投票和工作量证明挖矿组成。
 
 
 02
 
-DCR holders can buy tickets with their coins and use them to decide how Decred operates.
+DCR的持有人可以使用DCR购买选票并锁定它们，选票指导着Decred未来的发展方向。
 
 
 
 03
 
-Each new block picks five tickets to vote at random and requires signed votes from at least 3 tickets.
+在验证区块是否符合共识规则时，新区块会在选票池随机抓取5张选票，当有3张以上选票同意时才会被记录在区块链上。
 
 
 
 04
 
-After voting, ticket owners get their DCR refunded and earn a share (6%) of the block reward.
+链上投票结束后，选票持有人会获得其锁定的DCR并得到区块奖励（6%）。
 
 
 
 05
 
-Stakeholders vote to approve or reject the work of the PoW miners, they can deny the miners' rewards if they misbehave.  
+利益相关者拥有校验区块合法性的权力，当PoW矿工意图不轨时及时的否决掉区块，使其不会被记录在链上。
 
 06
 
-Vote for or against changes to the consensus rules.
+选票还可以选择是否过渡到新的链上共识规则。
 
 ​	
 
 07
 
-Decide on treasury expenditure proposals through Politeia.
+Politeia使得社区开发基金的支出更加透明。
+
+08
+
+决策权属于持有DCR的用户，权益证明投票不仅仅维护了Decred社区的安全还为去中心自治组织奠定了基础。
