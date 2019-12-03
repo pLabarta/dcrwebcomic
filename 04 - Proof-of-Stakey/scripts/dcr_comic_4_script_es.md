@@ -14,22 +14,20 @@ Quienes poseen DCR pueden usarlos para comprar tickets y decidir cómo opera Dec
 
 Cada nuevo bloque escoge cinco tickets al azar para que voten y requiere la firma de al menos tres de ellos.
 
-04
-
 Luego de votar, los dueños de los tickets recuperan su DCR y ganan una fracción (6%) de la recompensa del bloque.
 
-05
+04
 
 Los stakeholders votan para aprobar o rechazar el trabajo de los mineros PoW. Pueden quitarles su recompensa si no se comportan.
 
-06
+05
 
 Votan para cambiar las reglas de consenso.
 
-07
+06
 
 Deciden cómo se gastan los fondos del tesoro a través de Politeia.
 
-08
+07
 
 Los usuarios que tienen DCR son quienes toman las decisiones. La votación Proof-of-Stake pone a la comunidad de Decred a cargo y sienta las bases para crear una organización descentralizada.
