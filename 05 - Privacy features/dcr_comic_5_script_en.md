@@ -8,7 +8,7 @@ In a world where anyone could be **tracking your behavior**...
 
 **02**
 
-There are other **privacy** **implementations** in the wild. But some deter security and others add too much complexity.
+There are other **privacy** **implementations** in the wild. But some diminish auditability and others add too much complexity.
 
 **03**
 
