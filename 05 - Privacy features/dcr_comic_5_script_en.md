@@ -20,7 +20,7 @@ A new **mixnet** allows holders to mix their funds and make **anonymous** **tran
 
 **05**
 
-It is powered by a phenomenon unique to Decred: the **non**-**stopping** stream of **DCR** that flows into Proof-of-Stake voting tickets.
+It is powered by a phenomenon unique to Decred: the **non**-**stop** stream of **DCR** that flows into Proof-of-Stake voting tickets.
 
 **06**
 
