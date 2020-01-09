@@ -6,7 +6,10 @@
 
 02
 
-Working with **Free Open Source Software** means anyone can **copy** and **fork** the project to create a different version.
+Working with **Open Source Software** means anyone can **copy** the project's software and change the rules.
+
+If there are **enough miners** supporting it, the new chain survives and **takes some users** with it.
+
 
 03A
 
