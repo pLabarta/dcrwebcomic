@@ -2,7 +2,7 @@
 
 01
 
-**Forks** can be a network's **worst enemy**. They **destroy value** and **split** the community. ¿Is there a way to **prevent** them?
+**Contentious forks** can be a network's **worst enemy**. They **destroy value** and **split** the community. ¿Is there a way to **prevent** them?
 
 02
 
@@ -26,7 +26,7 @@ Miners will follow the chain that gives them the most **rewards**.
 
 06B
 
-On the **minority** chain, most blocks will select **missing** **tickets** whose owners are active on the majority chain.
+On the one with less stakeholder support, the**minority** chain, most blocks will select **missing** **tickets** whose owners are active on the majority chain.
 
 07
 
