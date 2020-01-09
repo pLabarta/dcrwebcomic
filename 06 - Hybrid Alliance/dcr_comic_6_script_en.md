@@ -22,7 +22,7 @@ Each new block requires **validation** from PoS tickets. Otherwise it's **discar
 
 06A
 
-Miners will follow the chain that gives them the most **rewards**. 
+If Decred's blockchain splits, Miners will follow the chain that gives them the most **rewards**. 
 
 06B
 
