@@ -6,7 +6,7 @@
 
 02
 
-Working with **Free Open Source Software** means anyone can **copy** the project, even the whole blockchain, and create a different version.
+Working with **Free Open Source Software** means anyone can **copy** and **fork** the project to create a different version.
 
 03A
 
