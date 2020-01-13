@@ -25,7 +25,7 @@ Each new block requires **validation** from PoS tickets. Otherwise it's **discar
 
 06A
 
-If there's a Decred fork, miners will follow the chain that gives them the most **rewards**. 
+If there's a Decred fork, miners will follow the **most rewarding** chain.
 
 06B
 
