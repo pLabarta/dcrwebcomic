@@ -2,7 +2,7 @@
 
 01
 
-**Contentious forks** can be a network's **worst enemy**. They **destroy value** and **split** the community. ¿Is there a way to **prevent** them?
+**Contentious forks** can be a network's **worst enemy**. They **destroy value** and **split** the community. Is there a way to **prevent** them?
 
 02
 
