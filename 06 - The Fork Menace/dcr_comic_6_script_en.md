@@ -1,4 +1,4 @@
-# DCR Comic #6: The Hybrid Alliance
+# DCR Comic #6: The Fork Menace
 
 01
 
