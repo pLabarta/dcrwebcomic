@@ -2,7 +2,7 @@
 
 **Atomic** **Swaps** are **trustless cross-chain transactions**. How do they work?
 
-They ensure both users get their funds by using two time-locked contracts that require the same secret, but different signatures to be redeemed.
+They ensure that one participant cannot steal the other's funds by using two time-locked contracts that require the same secret, but different signatures to be redeemed.
 
 02
 
@@ -32,4 +32,4 @@ If something goes wrong, both can get their funds back after 48 hours, when the 
 
 08
 
-Atomic Swaps are already here. Decred has built a command line app tool that makes it easy for anyone to make P2P cross-chain transactions with complete strangers in the cyberspace!
+Atomic Swaps are already here. Decred has built a command line tool that allows anyone to make P2P cross-chain transactions with strangers in cyberspace!
