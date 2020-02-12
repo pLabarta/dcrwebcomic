@@ -20,11 +20,11 @@ Two LN nodes can open a payment channel by publishing a special TX that creates 
 
 # 07
 
-Each must fund their side and once the channel is opened, they can instantly update the state as many times as required.
+One of them funds the channel and once it is open, they can instantly update the state as many times as required.
 
 # 08
 
-At any time, one party can close the channel by publishing the latest state to the blockchain. Each one gets their share of the contract.
+Any party can close the channel at any time by publishing the latest state to the blockchain. Each one gets their share of the contract.
 
 # 09
 
