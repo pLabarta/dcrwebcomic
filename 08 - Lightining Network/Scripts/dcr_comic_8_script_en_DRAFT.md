@@ -4,7 +4,7 @@ Lightning Network is a 2nd layer network. It uses smart contracts in order to mo
 
 # 02
 
-Blockchains like Decred have to limit their blocksize and the number of transactions they process, because otherwise it would be too hard for users to run their own nodes.
+Blockchains like Decred have to limit the number of transaction they process, because otherwise it would be too hard for users to run their own nodes.
 
 
 # 03
