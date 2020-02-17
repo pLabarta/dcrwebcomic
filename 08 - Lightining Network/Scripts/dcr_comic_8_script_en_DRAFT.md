@@ -4,7 +4,8 @@ Lightning Network is a 2nd layer network. It uses smart contracts in order to mo
 
 # 02
 
-Blockchains like Decred have to deal with limited blockspace. Increasing it might lead to make it impossible for the regular user to run it's own node.
+Blockchains like Decred have to limit their blocksize and the number of transactions they process, because otherwise it would be too hard for users to run their own nodes.
+
 
 # 03
 
@@ -16,7 +17,7 @@ Off-chain, without the blockchain limits, transactions become almost instant and
 
 # 05
 
-Two LN nodes can open a payment channel by publishing a special TX that creates the smartcontract.
+Two LN nodes can open a payment channel by publishing a special TX that creates the smart contract.
 
 # 06
 
@@ -32,4 +33,4 @@ Multiple interconnected channels create the Lightning Network, which can route p
 
 # 09
 
-While it is not the grand solution to the scalability problem, and we might never find one, saving precious blockspace is an important piece of the puzzle. In the future, this technology could enable more than DCR payments, lowering the barriers to participate in governance and even creating bridges with other chains.
+The Lightning Network is not a solution to every problem, but it will allow for an unlimited number of smaller transactions to be processed quickly off chain, opening up many new use cases. In the future, this tech could enable more than DCR payments, lowering the barriers to participate in governance and even creating bridges with other chains.
