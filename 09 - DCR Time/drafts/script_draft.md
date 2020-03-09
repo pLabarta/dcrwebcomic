@@ -2,7 +2,7 @@
 
 01
 
-Minimizing trust is about simple and cheap **verification**. What if there was a way to verify the past with just one click?**
+Minimizing trust is about simple and cheap **verification**. What if there was a way to verify the past with just one click?
 
 02
 
@@ -28,7 +28,7 @@ Now it can be used to timestamp **any kind of data**, and it even powers a Twitt
 
 07
 
-With **verifiable proof** that documents have not been tampered with, communities **don't have to trust** the admins who run the servers. While often overlooked, this tech levels the playing field for online discussion.**
+With **verifiable proof** that documents have not been tampered with, communities **don't have to trust** the admins who run the servers. While often overlooked, this tech levels the playing field for online discussion.
 
 
 
