@@ -28,7 +28,7 @@
 
 07
 
-**While often overlooked, this technology levels the playing field for online discussion. With verifiable proof that documents have not been tampered with, communities don't have to trust the admins who run the servers and can focus on the task ahead.**
+**With verifiable proof that documents have not been tampered with, communities don't have to trust the admins who run the servers. While often overlooked, this tech levels the playing field for online discussion.**
 
 
 
