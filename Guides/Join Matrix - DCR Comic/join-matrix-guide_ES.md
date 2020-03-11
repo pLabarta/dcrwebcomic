@@ -1,6 +1,6 @@
 # Cómo unirse a la comunidad Decred en Matrix
 
-Descarga [Riot](https://about.riot.im/), un cliente de còdigo abierto de Matrix:
+Descarga [Riot](https://about.riot.im/), un cliente de código abierto de Matrix:
 
 ![Download Riot client](https://github.com/pLabarta/dcrwebcomic/blob/master/Guides/Join%20Matrix%20-%20DCR%20Comic/imgs/01-download.png)
 
