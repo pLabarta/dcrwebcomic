@@ -35,3 +35,13 @@ Decred is a community of builders. Price and trading discussions have its own #t
 ![Download Riot client](https://github.com/pLabarta/dcrwebcomic/blob/master/Guides/Join%20Matrix%20-%20DCR%20Comic/imgs/07-trading-channel.png)
 
 Keep in mind that Matrix channels is where the Decred community collaborates, works and hangs around. It is both our home and workplace. Be respectful.
+
+---
+
+## Using the mobile app
+
+Logging in from your mobile device requires you to setup the homeserver to "https://matrix.decred.org" in the Riot mobile app by checking the "Use custom server options (advanced)" box. If you don't have an account, create it using the guide above.
+
+After logging in for the first time, your rooms list will be empty. To find Decred channels tap the top-right menu dots, then "Global Search", and browse Decred's rooms directory.
+
+![Download Riot client](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/Guides/Join%20Matrix/imgs/mobile.png)
