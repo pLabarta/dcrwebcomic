@@ -35,3 +35,13 @@ Decred es una comunidad de constructores. Las discusiones sobre precios y comerc
 ![Download Riot client](https://github.com/pLabarta/dcrwebcomic/blob/master/Guides/Join%20Matrix%20-%20DCR%20Comic/imgs/07-trading-channel.png)
 
 Ten en cuenta que los canales de Matrix es donde la comunidad colabora, trabaja, y se socializa. Es tanto nuestro hogar, como también nuestra oficina. Se respetuoso.
+
+---
+
+## Cómo usar la aplicación móvil
+
+Ingresar desde un dispositivo móvil requiere configurar el servidor para ingresar a "https://matrix.decred.org" en la aplicación móvil de Riot. Para esto hay que habilitar el casillero de configuración avanzada. Si no tiene una cuenta, primero creela usando la guía de arriba.
+
+Luego de ingresar por primera vez, su lista de salas estará vacía. Para encontrar los canales de Decred vaya al menú superior derecho, seleccione la opción Busqueda Global y recorra el directorio de salas de Decred.
+
+![Download Riot client](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/Guides/Join%20Matrix/imgs/mobile.png)
