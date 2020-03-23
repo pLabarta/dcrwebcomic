@@ -7,3 +7,5 @@ The files are presented in A3+ (329mm x 483mm / 12.95 x 19.02 inches), which yie
 Within each folder are .pdf's and .png's of each comic. A print test is recommended testing this two out. Personally, we found better results printing in .png, but it depends on the printer..
 
 Each file has its respective cutting marks, folding marks, and indicators to test and correct the natural offset of the prints.
+
+![example](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/Swag/Booklets/02%20-%20Proof-of-Work%2C%20explained/en/booklet-01.png)
