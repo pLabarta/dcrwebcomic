@@ -1,4 +1,4 @@
-![out](/home/pablitx/Downloads/Telegram Desktop/2season_proposalPublished/out.gif)
+<img src="https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/Proposal2/img/proposal2.gif" alt="all_stakeys" style="zoom:150%;" />
 
 # DCR Comic - Season 2
 
@@ -14,7 +14,7 @@ Just like with the first proposal, you can see an **illustrated version** of thi
 
 ---
 
-<img src="/home/pablitx/Documents/DCRComic/Repo clones/dcrwebcomic/Assets/characters/comic4/accountantStakey_v1.png" alt="accountantStakey_v1" style="zoom: 25%;" />
+<img src="https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/Assets/characters/comic4/accountantStakey_v1.png" alt="checking_stuff" style="zoom: 25%;" />
 
 ## Busy Ticket Holder's Summary
 
@@ -22,7 +22,7 @@ The DCR Comic proposal centers on the development of **visual explainers** that 
 
 For **Season 2**, we intent to produce **12 more comics**, this time focusing not only on specific Decred technology but also on **the broader problems Decred aims to solve**. We are targeting larger audience, and we intent to keep expanding our public as the project evolves.
 
-Every asset can be found at [GitHub](https://github.com/plabarta/dcrwebcomic) and anyone can read all the comics at the [DCR Comic website](https://dcrcomic.org).
+Every asset can be found at [GitHub](https://github.com/pLabarta/dcrwebcomic/master) and anyone can read all the comics at the [DCR Comic website](https://dcrcomic.org).
 
 This time we want to **double up the hours spent on creating content for Social Media platforms**, specially [Twitter](https://twitter.com/DCRComic) and [Instagram](https://www.instagram.com/dcrcomic/). This drives the cost of each comic from **$1200 to $1350**, adding 5 more hours to the mix for a total of 45 work hours.
 
@@ -30,7 +30,7 @@ This time we want to **double up the hours spent on creating content for Social 
 
 ---
 
-<img src="/home/pablitx/Documents/DCRComic/Repo clones/dcrwebcomic/Assets/characters/comic4/rowStakeys_4.png" alt="rowStakeys_4" style="zoom:45%;" />
+<img src="https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/Assets/characters/comic4/rowStakeys_4.png" alt="rowStakeys_4" style="zoom:45%;" />
 
 ## Season 1 Report
 
@@ -52,7 +52,7 @@ Aside from what was included in the proposal, the funding of the project by the 
 
 - [The DCR Comic website](https://dcrcomic.org/)
 - Managing translations
-- [DCR Comic booklets for events/meet-ups](https://github.com/pLabarta/dcrwebcomic/tree/master/Swag/Booklets)
+- [DCR Comic booklets for events/meet-ups](https://github.com/pLabarta/dcrwebcomic/master/tree/master/Swag/Booklets)
 - [The first DCR Comic animation](https://youtu.be/I27pKjU-cQ4), a 2 minute video based on Privacy Matters (we intend to present another proposal to discuss the animation project soon). [THIS LINK POINTS TO THE 4th DRAFT, IT WILL BE UPDATED SOON WITH THE FINAL VERSION]
 - A series of **Twitter threads** explaining several key features of Decred project (compiling handy info and writing original content):
   - [Proof of Keys](https://twitter.com/DCRComic/status/1212754649616388096)
@@ -79,7 +79,7 @@ DCR Comic began distributing the content through several Social Media platforms,
 
 ---
 
-<img src="/home/pablitx/Documents/DCRComic/Repo clones/dcrwebcomic/Assets/characters/comic6/stakey_evilScientific_v1_2.png" alt="stakey_evilScientific_v1_2" style="zoom:12%;" />
+<img src="https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/Assets/characters/comic6/stakey_evilScientific_v1_2.png" alt="stakey_evilScientific_v1_2" style="zoom:12%;" />
 
 ## DCR Comic - Season 2
 
@@ -124,7 +124,7 @@ We will continue to manage the multiple Social Media platforms and the DCR Comic
 
 ---
 
-<img src="/home/pablitx/Documents/DCRComic/Repo clones/dcrwebcomic/Assets/characters/comic7/dcr_coin_v2.png" alt="dcr_coin_v2" style="zoom: 50%;" />
+<img src="https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/Assets/characters/comic7/dcr_coin_v2.png" alt="dcr_coin_v2" style="zoom: 50%;" />
 
 ## The offer
 
