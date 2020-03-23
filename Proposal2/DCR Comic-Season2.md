@@ -52,7 +52,7 @@ Aside from what was included in the proposal, the funding of the project by the 
 
 - [The DCR Comic website](https://dcrcomic.org/)
 - Managing translations
-- [DCR Comic booklets for events/meet-ups](https://github.com/pLabarta/dcrwebcomic/master/tree/master/Swag/Booklets)
+- [DCR Comic booklets for events/meet-ups](https://github.com/pLabarta/dcrwebcomic/master/tree/Swag/Booklets)
 - [The first DCR Comic animation](https://youtu.be/I27pKjU-cQ4), a 2 minute video based on Privacy Matters (we intend to present another proposal to discuss the animation project soon). [THIS LINK POINTS TO THE 4th DRAFT, IT WILL BE UPDATED SOON WITH THE FINAL VERSION]
 - A series of **Twitter threads** explaining several key features of Decred project (compiling handy info and writing original content):
   - [Proof of Keys](https://twitter.com/DCRComic/status/1212754649616388096)
