@@ -1,4 +1,4 @@
-# ![teaser](/home/pablitx/Downloads/Telegram Desktop/new_chars/teaser.png)
+# ![teaser](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/Proposal2/newchars/teaser.png)
 
 # DCR Comic: new characters v0.1
 
@@ -12,19 +12,19 @@ All feedback is appreciated.
 
 ## Characters
 
-![stakey](/home/pablitx/Downloads/Telegram Desktop/new_chars/stakey.png)
+![stakey](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/Proposal2/newchars/stakey.png)
 
-![hash9a](/home/pablitx/Downloads/Telegram Desktop/new_chars/hash9a.png)
+![hash9a](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/Proposal2/newchars/hash9a.png)
 
-![hash9b](/home/pablitx/Downloads/Telegram Desktop/new_chars/hash9b.png)
+![hash9b](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/Proposal2/newchars/hash9b.png)
 
-![holdee](/home/pablitx/Downloads/Telegram Desktop/new_chars/holdee.png)
+![holdee](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/Proposal2/newchars/holdee.png)
 
-![atom](/home/pablitx/Downloads/Telegram Desktop/new_chars/atom.png)
+![atom](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/Proposal2/newchars/atom.png)
 
-![centri](/home/pablitx/Downloads/Telegram Desktop/new_chars/centri.png)
+![centri](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/Proposal2/newchars/centri.png)
 
-![candlestonks](/home/pablitx/Downloads/Telegram Desktop/new_chars/candlestonks.png)
+![candlestonks](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/Proposal2/newchars/candlestonks.png)
 
 
 
@@ -32,4 +32,4 @@ All feedback is appreciated.
 
 We are reworking the comics so to improve readability on mobile devices. If you can read this on your phone and give us some feedback, that would be amazing.
 
-![comic1v2](/home/pablitx/Downloads/Telegram Desktop/new_chars/comic1v2.png)
+![comic1v2](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/Proposal2/newchars/comic1v2.png)
